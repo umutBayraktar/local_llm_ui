@@ -1,4 +1,4 @@
-# claude_git_test — Local LLM Chat
+# local_llm_ui — Local LLM Chat
 
 A very simple ChatGPT-style chat app that runs entirely on your machine.
 
@@ -24,8 +24,8 @@ A very simple ChatGPT-style chat app that runs entirely on your machine.
 2. **Clone the repo and create a virtual environment**
 
    ```bash
-   git clone https://github.com/umutBayraktar/claude_git_test.git
-   cd claude_git_test
+   git clone https://github.com/umutBayraktar/local_llm_ui.git
+   cd local_llm_ui
    python -m venv .venv
    source .venv/bin/activate      # Windows: .venv\Scripts\activate
    ```
